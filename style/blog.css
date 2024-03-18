@@ -3,7 +3,8 @@ h3{
     /* size: 56px; */
 }
 div{
-    background-color: tomato;
+    background-image:url(web\ background..jpeg);
+    /* background-color: tomato; */
     padding: 12px;
     border: 12px;
     margin-bottom: 10px;
